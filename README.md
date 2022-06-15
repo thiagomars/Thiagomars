@@ -1,6 +1,6 @@
 # Olá! Eu sou o Thiago. 👋
 
-- 👨‍💻 Atualmente trabalho com Java para Desktop (Java SWING e SQLite), e linguagens para WEB (HTML, CSS e JavaScript)
+- 👨‍💻 Atualmente trabalho com Java para Desktop (Java SWING e SQLite), e desenvolvimento WEB (HTML, CSS e JavaScript)
 
 <br>
 
