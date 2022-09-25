@@ -14,9 +14,9 @@
   
 ### O que eu estudo?
   
-👨‍💻 Atualmente trabalho com Java para Desktop (Java SWING e SQLite), e desenvolvimento WEB (HTML, CSS e JavaScript)
+👨‍💻 Atualmente trabalho com Java, C, C# e desenvolvimento WEB (HTML, CSS e JavaScript) utilizando alguns frameworks.
  
----
+--
 
 
 ## Encontrou algo interessante? Entra em contato e vamos trabalhar juntos! 🤝
