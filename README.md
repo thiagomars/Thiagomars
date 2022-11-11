@@ -1,23 +1,30 @@
 ## Olá! Eu sou o Thiago. 👋
 
-### Sobre mim 🐱‍👤
+### 🐱‍👤 Sobre mim:
 
+📌  Sou Desenvolvedor WEB;
+  <br>
 📌  Graduando em Engenharia de Computação;
   <br>
-📌  Sei um pouco de algumas coisas, como programação, redes, sites, automação etc. 🎪
+📌  Sou Técnico em Redes de Computadores;
+  <br>
+📌  Tenho 22 anos e sou do Ceará;
+  <br><br>
+Se quiser entrar em contato comigo, só mandar um email para **r15.thiagomarques@gmail.com** 
 
-<div align="center">
+--------------------------------------------------------
+### 👨‍💻 Já trabalhei com:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,jquery,react,cs,cpp,mysql,postgres,java,figma,git)](https://skillicons.dev)
+
+
+<div>
   <a href="https://github.com/thiagomars">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagomars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomars&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-### O que eu estudo?
-  
-👨‍💻 Atualmente trabalho com Java, C, C# e desenvolvimento WEB (HTML, CSS e JavaScript) utilizando alguns frameworks.
- 
---
 
+--------------------------------------------------------
 
 ## Encontrou algo interessante? Entra em contato e vamos trabalhar juntos! 🤝
 
