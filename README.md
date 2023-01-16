@@ -17,6 +17,7 @@ Se quiser entrar em contato comigo, só mandar um email para **r15.thiagomarques
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,jquery,react,cs,cpp,mysql,postgres,java,figma,git)](https://skillicons.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomars&theme=react&show_icons=true)
 
 <div>
   <a href="https://github.com/thiagomars">
