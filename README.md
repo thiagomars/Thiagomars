@@ -9,13 +9,15 @@
 📌  Sou Técnico em Redes de Computadores;
   <br>
 📌  Tenho 22 anos e sou do Ceará;
+  <br>
+📌  Link do meu portifólio: https://portif-a1l4owz7n-thiagomars.vercel.app 
   <br><br>
 Se quiser entrar em contato comigo, só mandar um email para **r15.thiagomarques@gmail.com** 
 
 --------------------------------------------------------
 ### 👨‍💻 Já trabalhei com:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,jquery,react,cs,mysql,postgresql,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,jquery,react,cs,dotnet,postgresql,mysql,java,spring,spring,git)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomars&theme=react&show_icons=true)
 
