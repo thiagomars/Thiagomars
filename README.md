@@ -10,7 +10,7 @@
   <br>
 📌  Tenho 23 anos e sou do Ceará;
   <br>
-📌  Link do meu portfólio: [thiagomars](https://portif-o61f5odhf-thiagomars.vercel.app) 
+📌  Link do meu portfólio: [thiagomars](https://portif-lio-wine.vercel.app/) 
   <br><br>
 Se quiser entrar em contato comigo, só mandar um email para **r15.thiagomarques@gmail.com** 
 
