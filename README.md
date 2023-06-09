@@ -2,13 +2,13 @@
 
 ### 🐱‍👤 Sobre mim:
 
-📌  Sou Desenvolvedor WEB;
+📌  Sou Desenvolvedor WEB Full-Stack;
   <br>
 📌  Graduando em Engenharia de Computação;
   <br>
 📌  Sou Técnico em Redes de Computadores;
   <br>
-📌  Tenho 22 anos e sou do Ceará;
+📌  Tenho 23 anos e sou do Ceará;
   <br>
 📌  Link do meu portfólio: [thiagomars](https://portif-o61f5odhf-thiagomars.vercel.app) 
   <br><br>
