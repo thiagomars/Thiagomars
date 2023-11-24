@@ -15,7 +15,7 @@
 Se quiser entrar em contato comigo, só mandar um email para **r15.thiagomarques@gmail.com** 
 
 --------------------------------------------------------
-### 👨‍💻 Já trabalhei com:
+### 👨‍💻 Trabalho com:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,jquery,react,cs,dotnet,postgresql,mysql,git)](https://skillicons.dev)
 
